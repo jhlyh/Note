@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "5b4ef7ec4bd474f8",
+        "id": "74d16310e5dfadb5",
         "type": "tabs",
         "children": [
           {
-            "id": "3ef6ae2cbf7ab1ad",
+            "id": "3ec1d7f513392688",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "README.md",
+                "file": "Oracle基础知识.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "README"
+              "title": "Oracle基础知识"
             }
           }
         ]
@@ -34,18 +34,6 @@
         "id": "6283ad398071b31b",
         "type": "tabs",
         "children": [
-          {
-            "id": "54a9df03ff280603",
-            "type": "leaf",
-            "state": {
-              "type": "file-explorer",
-              "state": {
-                "sortOrder": "alphabetical"
-              },
-              "icon": "lucide-folder-closed",
-              "title": "文件列表"
-            }
-          },
           {
             "id": "82e0568d1c5d2e28",
             "type": "leaf",
@@ -71,6 +59,18 @@
               "state": {},
               "icon": "lucide-bookmark",
               "title": "书签"
+            }
+          },
+          {
+            "id": "c299ed49b738b5ee",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-folder-closed",
+              "title": "文件列表"
             }
           }
         ]
@@ -139,10 +139,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "README.md"
+                "file": "Oracle基础知识.md"
               },
               "icon": "lucide-list",
-              "title": "README 的大纲"
+              "title": "Oracle基础知识 的大纲"
             }
           },
           {
@@ -173,8 +173,11 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "aeb1449ac77b15e5",
+  "active": "3ec1d7f513392688",
   "lastOpenFiles": [
-    "README.md"
+    "Oracle基础知识.md",
+    "README.md",
+    "未命名.canvas",
+    "Oracle"
   ]
 }
