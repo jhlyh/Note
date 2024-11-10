@@ -11,10 +11,14 @@
             "id": "3ef6ae2cbf7ab1ad",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "关系图谱"
+              "type": "markdown",
+              "state": {
+                "file": "README.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "README"
             }
           }
         ]
@@ -165,7 +169,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "aeb1449ac77b15e5",
+  "active": "3ef6ae2cbf7ab1ad",
   "lastOpenFiles": [
     "README.md"
   ]
